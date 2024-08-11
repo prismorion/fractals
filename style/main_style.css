@@ -1,0 +1,31 @@
+body{
+  color: #f2f2f2;
+}
+
+.l-container {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 1%;
+  text-align: center;
+  background-color: #202025; 
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+
+  font-size: 18px;
+  color: #f2f2f2;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #1e90ff;
+}
+
+p {
+  font-size: 18px;
+  color: #f2f2f2;
+  line-height: 1.5;
+  margin-top: 20px;
+}
